@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="examples/EmployeeSearch10/src"/>
+	<classpathentry kind="src" path="practices/practice1/SalesTxn10-01Prac/src"/>
+	<classpathentry kind="src" path="practices/practice2/SalesTxn10-02Prac/src"/>
+	<classpathentry kind="src" path="practices/practice3/SalesTxn10-03Prac/src"/>
+	<classpathentry kind="src" path="practices/practice4/SalesTxn10-04Prac/src"/>
+	<classpathentry kind="src" path="practices/practice5/SalesTxn10-05Prac/src"/>
+	<classpathentry kind="src" path="practices/practice6/SalesTxn10-06Prac/src"/>
+	<classpathentry kind="src" path="practices/practice7/SalesTxn10-07Prac/src"/>
+	<classpathentry kind="src" path="practices/practice8/SalesTxn10-08Prac/src"/>
+	<classpathentry kind="output" path="practices/practice1/SalesTxn10-01Prac/build/classes"/>
+</classpath>
